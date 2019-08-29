@@ -23,4 +23,5 @@ header {
 }
 header a {
 	color: gray;
+	text-decoration: none;
 }
