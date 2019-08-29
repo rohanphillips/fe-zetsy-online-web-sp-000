@@ -34,3 +34,6 @@ p {
 	color: #555;
 	font-size: 100%;
 }
+footer {
+	align-items: right;
+}
