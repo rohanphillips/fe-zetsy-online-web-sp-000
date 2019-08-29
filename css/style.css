@@ -58,6 +58,10 @@ p {
 	border: 5px solid #CCC;
 }
 
+#press a:hover {
+	color: rgb(111,127,122);
+}
+
 footer {
 	float: right;
 	font-size: 80%;
