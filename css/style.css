@@ -21,3 +21,6 @@ body {
 header {
 	color: gray;
 }
+header a {
+	color: gray;
+}
