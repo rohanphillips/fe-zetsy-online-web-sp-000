@@ -38,6 +38,9 @@ header a {
 	text-decoration: none;
 	font-size: 300%;
 }
+#featured img {
+	border: 1px solid #ccc;
+}
 h2 {
 	color: rgb(111,127,122);
 	font-size: 200%;
