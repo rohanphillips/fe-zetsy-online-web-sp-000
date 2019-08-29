@@ -35,5 +35,5 @@ p {
 	font-size: 100%;
 }
 footer {
-	align-items: right;
+	float: right;
 }
